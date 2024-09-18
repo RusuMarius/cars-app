@@ -1,0 +1,4 @@
+> 0.5%            # Browsers with more than 0.5% market share
+last 2 versions   # The last 2 versions of each browser
+Firefox ESR       # Latest Firefox Extended Support Release
+not dead          # Exclude browsers without official support or updates
