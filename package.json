@@ -21,9 +21,11 @@
     "better-sqlite3": "8.6.0",
     "esbuild": "^0.23.1",
     "esbuild-loader": "^4.2.2",
+    "pg": "^8.13.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
+    "strapi-neon-tech-db-branches": "^0.1.18",
     "styled-components": "5.3.3"
   },
   "author": {
