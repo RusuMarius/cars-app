@@ -29,6 +29,9 @@
     },
     "dealer": {
       "type": "string"
+    },
+    "email": {
+      "type": "email"
     }
   }
 }
