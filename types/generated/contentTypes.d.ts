@@ -987,6 +987,7 @@ export interface ApiReservationReservation extends Schema.CollectionType {
       'api::car.car'
     >;
     dealer: Attribute.String;
+    email: Attribute.Email;
     createdAt: Attribute.DateTime;
     updatedAt: Attribute.DateTime;
     publishedAt: Attribute.DateTime;
